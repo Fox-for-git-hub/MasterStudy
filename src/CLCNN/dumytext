@@ -1,1 +1,12 @@
+127.0.0.1 - - [11/Sep/2020:16:56:44 +0900] "POST http://localhost:8080/tienda1/miembros/editar.jsp HTTP/1.1" 404 196
+127.0.0.1 - - [11/Sep/2020:16:56:44 +0900] "GET http://localhost:8080/tienda1/miembros/salir.jsp HTTP/1.1" 404 196
+127.0.0.1 - - [11/Sep/2020:16:56:44 +0900] "GET http://localhost:8080/tienda1/index.jsp HTTP/1.1" 404 196
+127.0.0.1 - - [11/Sep/2020:16:56:44 +0900] "GET http://localhost:8080/tienda1/imagenes/1.gif HTTP/1.1" 404 196
+127.0.0.1 - - [11/Sep/2020:16:56:44 +0900] "POST http://localhost:8080/tienda1/publico/anadir.jsp HTTP/1.1" 404 196
 127.0.0.1 - - [11/Sep/2020:16:56:44 +0900] "GET http://localhost:8080/tienda1/imagenes/2.gif HTTP/1.1" 404 196
+127.0.0.1 - - [11/Sep/2020:16:56:44 +0900] "GET http://localhost:8080/tienda1/imagenes/3.gif HTTP/1.1" 404 196
+127.0.0.1 - - [11/Sep/2020:16:56:44 +0900] "GET http://localhost:8080/tienda1/imagenes/cmenbul.gif HTTP/1.1" 404 196
+127.0.0.1 - - [11/Sep/2020:16:56:44 +0900] "GET http://localhost:8080/tienda1/imagenes/logo.gif HTTP/1.1" 404 196
+127.0.0.1 - - [11/Sep/2020:16:56:44 +0900] "GET http://localhost:8080/tienda1/imagenes/nuestratierra.jpg HTTP/1.1" 404 196
+127.0.0.1 - - [11/Sep/2020:18:36:59 +0900] "GET / HTTP/1.1" 200 45
+127.0.0.1 - - [11/Sep/2020:18:37:19 +0900] "-" 408 -
